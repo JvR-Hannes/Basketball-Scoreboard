@@ -11,5 +11,5 @@
 </ul>
 
 # Screenshots 🎮
-<p>You can try it out yourself by clicking this <span><a href="https://67ddd39a93ff290a8cfe3d34--roaring-mooncake-6eaaae.netlify.app/">Link</a></span></p>
+<p>You can try it out yourself by clicking this <span><a href="https://scorecardcounter.netlify.app">Link</a></span></p>
 <img src="https://github.com/JvR-Hannes/Basketball-Scoreboard/blob/main/Scoreboard.png" alt="Demo-Screenshot">
